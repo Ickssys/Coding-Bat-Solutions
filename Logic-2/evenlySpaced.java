@@ -20,4 +20,4 @@ public  boolean evenlySpaced(int a, int b, int c){
     return true;
   }
   return false;
-*
+*/
